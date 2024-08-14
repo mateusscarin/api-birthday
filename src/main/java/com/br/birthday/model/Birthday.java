@@ -1,4 +1,4 @@
-package com.br.apibirthday.model;
+package com.br.birthday.model;
 
 import java.io.Serializable;
 import java.time.LocalDate;

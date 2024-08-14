@@ -1,4 +1,4 @@
-package com.br.apibirthday;
+package com.br.birthday;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
